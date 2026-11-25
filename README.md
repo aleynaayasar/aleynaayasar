@@ -3,6 +3,7 @@
 **Computer Engineering student @ Dokuz Eylül University** (GPA 3.49/4.00) · İzmir, Türkiye
 
 I build practical AI systems, with a focus on **offline / privacy-first LLM applications**, **RAG**, and **data mining**. I'm also curious about cybersecurity and enjoy turning ideas into working prototypes at hackathons.
+
 ---
 
 ## 🚀 Featured Projects
